@@ -11,25 +11,6 @@ This repository documents my step-by-step learning process from Python basics to
 - Machine Learning concepts (coming soon)
 - Real-world projects (coming soon)
 
-
-## 🗂️ Folder Structure
-Machine-Learning-Journey/
-│
-├── README.md
-│
-├── Python-Basics/
-│   ├── Day 01 - Python Introduction.ipynb
-│   └── Day 02 - Data Structures.ipynb
-│
-├── Libraries/
-│   ├── Numpy/
-│   │   └── Day 03 - Numpy Basics.ipynb
-│   │
-│   └── Pandas/
-│       ├── Day 04 - Pandas Basics.ipynb
-│       └── Day 05 - Pandas Advanced.ipynb
-│
-
 ## Tools & Technologies
 
 - Python 
