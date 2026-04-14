@@ -9,7 +9,7 @@ This folder contains my day-by-day learning of Python fundamentals and important
 * Functions
 * Data Structures (List, Tuple, Dictionary)
 * List Comprehension                                                                                                                                                
-*Object-Oriented Programming (OOP):Inheritance, Encapsulation, Abstraction, Method Overloading
+* Object-Oriented Programming (OOP):Inheritance, Encapsulation, Abstraction, Method Overloading
 * Exception Handling
   
 ## Libraries Covered
