@@ -8,7 +8,7 @@ This folder contains my day-by-day learning of Python fundamentals and important
 * Variables & Data Types
 * Functions
 * Data Structures (List, Tuple, Dictionary)
-* List Comprehension
+* List Comprehension                                                                                                                                                 
 *Object-Oriented Programming (OOP)
   1.Inheritance
   2.Encapsulation
